@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 3. Download the dataset:
 
-   * `IMDB Dataset.csv` from [Kaggle IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+   * `IMDB Dataset.csv` from [Google Drive Dataset](https://drive.google.com/file/d/1reS9mUR7Hopn8qPOkOFeKvZzhg8P1lGQ/view?usp=sharing)
    * Place it in the project root directory
 
 ### Usage
